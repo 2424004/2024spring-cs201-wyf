@@ -57,6 +57,8 @@ Updated 1009 GMT+8 Feb 28, 2024
 
 https://github.com/2424004/2024spring-cs201-wyf
 
+![image-20240625182901438](C:\Users\26424\AppData\Roaming\Typora\typora-user-images\image-20240625182901438.png)
+
 ## 3. 课程总结
 
 一学期的数算B课程很快结束了，回顾整个过程，有挣扎也有收获。
